@@ -1,0 +1,33 @@
+{
+"categorias": [
+  {
+    "categori_id": 1,
+    "name": "Motocicleta"
+  },
+  {
+    "categori_id": 2,
+    "name": "Militar"
+  },
+  {
+    "categori_id": 3,
+    "name": "Deporte"
+  },
+  {
+    "categori_id": 4,
+    "name": "Frutas y verduras"
+  },
+  {
+    "categori_id": 5,
+    "name": "Abarrotes"
+  },
+  {
+    "categori_id": 5,
+    "name": "Enlatados"
+  },
+  {
+    "categori_id": 6,
+    "name": "Recuperacion"
+  }
+]
+}
+  

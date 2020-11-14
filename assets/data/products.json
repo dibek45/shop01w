@@ -1,0 +1,131 @@
+{
+    "products": [
+
+      
+    {
+      "id": 1,
+      "name": "Guantes de combate",
+      "price": "320",
+      "available": true,
+      "best_seller": true,
+      "tipoNegocio":1,
+      "categories": [
+        1,2
+      ],
+      "img": "http://localhost:3001/images/cocacola.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu."
+    },
+    {
+      "id": 2,
+      "name": "Pechera cruzada lts",
+      "price": "700",
+      "available": true,
+      "best_seller": false,
+      "tipoNegocio":1,
+      "categories": [
+        2
+      ],
+      "img": "http://localhost:3001/images/zaragoza.jpg",
+      "description": "Ideal para campismo, cenderismo o actividades al aire libre"
+    },
+    {
+      "id": 3,
+      "name": "Piernera  tactica militar",
+      "price": "10.000",
+      "available": true,
+      "best_seller": true,
+      "tipoNegocio":1,
+      "categories": [
+        1,2
+      ],
+      "img": "http://localhost:3001/images/malboro.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu."
+    },
+    {
+      "id": 5,
+      "name": "Pizza de sarten",
+      "price": "280",
+      "available": true,
+      "best_seller": true,
+      "tipoNegocio":2,
+      "categories": [
+        
+        1,2,3
+      ],
+      "img": "http://localhost:3001/images/elote.png",
+      "description": "Pizza con mantequilla hecha en sarten clasico con relleno de queso. Todos nuestros productos son realizados con nuestro pan recien hecho."
+    },
+    {
+      "id": 6,
+      "name": "Reloj para hombre liquidacion precio mayoreo",
+      "price": "120",
+      "available": true,
+      "best_seller": false,
+      "tipoNegocio":1,
+      "categories": [
+        
+        1,2
+      ],
+      "img": "http://localhost:3001/images/nesquik.jpg",
+      "description": "Este es un reloj para cualquier tipo de actividadLorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas euhshshshshs hhshshshzzzzzzzzz zzzzzzzzz zzzzzzzzzzztttt ttttt"
+    },
+    {
+      "id": 7,
+      "name": "Guantes tacticos militares",
+      "price": "320",
+      "available": false,
+      "best_seller": false,
+      "tipoNegocio":1,
+      "categories": [
+        
+        1,2
+      ],
+      "img": "http://localhost:3001/images/chorizo.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu."
+    },
+    {
+      "id": 8,
+      "name": "Mochila 50 litros",
+      "price": "850",
+      "available": true,
+      "best_seller": false,
+      "tipoNegocio":1,
+      "categories": [
+        
+        2
+      ],
+      "img": "http://localhost:3001/images/pan Bimbo.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu."
+    },
+    {
+      "id": 9,
+      "name": "Cinto nylon",
+      "price": "300",
+      "available": true,
+      "best_seller": true,
+      "tipoNegocio":1,
+      "categories": [
+        1,
+        2
+      ],
+      "img": "http://localhost:3001/images/gatorade.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu."
+    },
+    {
+      "id": 10,
+      "name": "Mochila 40 lts nylon",
+      "price": "700",
+      "available": false,
+      "best_seller": true,
+      "tipoNegocio":1,
+      "categories": [
+        6
+      ],
+      "img": "http://localhost:3001/images/cloralex.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eu."
+    }
+  ]
+
+    
+  }
+  

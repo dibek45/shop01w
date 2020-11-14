@@ -1,0 +1,6 @@
+{
+  "empresaID":1,
+  "tipoEmpresaId":1,
+  "adminName": "David Velazquez",
+  "permissions": ["users"]
+}
